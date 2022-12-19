@@ -24,18 +24,18 @@ Administración de sistemas de ciberseguridad, securidad de network y vulnerabil
 
 ## Habilidades técnicas
 
-*HTML
-*CSS
-*Javascript
-*SQL
-*Bases de datos SQL
-*Programación Orientada a Objetos.
-*Testing de software
-*Testing positivo y negativo.
-*Testing funcional
-*Testing regresivo
-*Testing exploratorio
-*Escritura y arado de ESRE, Casos de prueba, Casos de Uso, y reportes de incidente, y documentos relacionados.
+* HTML
+* CSS
+* Javascript
+* SQL
+* Bases de datos SQL
+* Programación Orientada a Objetos.
+* Testing de software
+* Testing positivo y negativo.
+* Testing funcional
+* Testing regresivo
+* Testing exploratorio
+* Escritura y arado de ESRE, Casos de prueba, Casos de Uso, y reportes de incidente, y documentos relacionados.
 
 ## Mi trabajo
 
