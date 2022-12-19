@@ -40,13 +40,13 @@ Administración de sistemas de ciberseguridad, securidad de network y vulnerabil
 
 ## Habilidades blandas
 
-*Adaptación a diferentes
+* Adaptación a diferentes
 contextos y modelos de
 trabajo
-*Facilidad y gusto por el
+* Facilidad y gusto por el
 trabajo en equipo
-*Detallista
-*Comunicación efectiva
+* Detallista
+* Comunicación efectiva
 Autonomía de gestión
 
 ## Mi trabajo
