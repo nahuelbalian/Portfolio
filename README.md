@@ -24,6 +24,7 @@ Administración de sistemas de ciberseguridad, securidad de network y vulnerabil
 
 ## Habilidades técnicas
 
+* Ingles avanzado.
 * HTML
 * CSS
 * Javascript
@@ -35,7 +36,18 @@ Administración de sistemas de ciberseguridad, securidad de network y vulnerabil
 * Testing funcional
 * Testing regresivo
 * Testing exploratorio
-* Escritura y arado de ESRE, Casos de prueba, Casos de Uso, y reportes de incidente, y documentos relacionados.
+* Escritura y armado de ESRE, Casos de prueba, Casos de Uso, y reportes de incidente, y documentos relacionados.
+
+## Habilidades blandas
+
+*Adaptación a diferentes
+contextos y modelos de
+trabajo
+*Facilidad y gusto por el
+trabajo en equipo
+*Detallista
+*Comunicación efectiva
+Autonomía de gestión
 
 ## Mi trabajo
 
