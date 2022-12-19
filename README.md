@@ -52,3 +52,5 @@ Autonomía de gestión
 ## Mi trabajo
 
 Entregas finales de JAP.
+
+Estos trabajos fueron realizados en el contexto del curso, por lo que no se contemplaron todos los aspectos necesarios del testing de software a la hora de realizarlos, como lo son el diseño de caso de prueba especificos para cada campo individual al testear el funcionamiento de un formulario.
