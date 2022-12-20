@@ -23,7 +23,11 @@ Tester de Software – Jovenes a programar. (292 hs)
 
 Analista en Cyberseguridad – IBM. (6 meses) (En curso)
 
-Administración de sistemas de ciberseguridad, securidad de network y vulnerabilidades de bases de datos, testing de penetración y respuesta a incidentes, inteligencia de cyber amenazas, y estudios de penetraciones.  
+* Administración de sistemas de ciberseguridad 
+* Seguridad de network y vulnerabilidades de bases de datos. 
+* Testing de penetración y respuesta a incidentes. 
+* Inteligencia de cyber amenazas. 
+* Estudios de ataques.  
  
   
 ## Herramientas
