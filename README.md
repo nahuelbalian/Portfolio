@@ -6,9 +6,20 @@ Me encuentro realizando un curso para Analista en Cyberseguridad, y con varios c
 
 ## Cursos
 
-Tester de Software – Jovenes a programar. (230 hs)
+Introducción a la programación - Jovenes a programar. (138 hs)
+* Pensamiento computacional.
+* Introducción a la programación.
+* Fundamentos de la programación.
+* Programación imperativa.
+* Programación orientada a objetos.
+* Javascript.
+* Competencias transversales.
 
-Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
+Tester de Software – Jovenes a programar. (292 hs)
+* Testing funcional: Casos de uso, casos de prueba, clases de equivalencia, reporte de errores, pruebas de regresión, informe de pruebas.
+* Introducción a bases de datos: SQL, lenguaje de definición de datos (DDL), lenguaje de manipulación de datos (DML), conceptos de desarrollo de software.
+* Taller practico: Testeo de un sitio webb con 4 entregas individuales.
+* Competencias transversales.
 
 Analista en Cyberseguridad – IBM. (6 meses) (En curso)
 
