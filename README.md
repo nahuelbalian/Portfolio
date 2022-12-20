@@ -33,6 +33,7 @@ Analista en Cyberseguridad – IBM. (6 meses) (En curso)
 ## Herramientas
 
 * Visual Code Studio
+* Microsoft SQL Server Management Studio
 * Testlink
 * Jira
 * MantisBT
