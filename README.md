@@ -61,12 +61,16 @@ contextos y modelos de
 trabajo
 * Facilidad y gusto por el
 trabajo en equipo
-* Detallista
+* Orientado a los detalles
+* Determinación
 * Comunicación efectiva
-Autonomía de gestión
+* Autonomía de gestión
+* Empatia
+* Respeto
 
 ## Mi trabajo
 
 Entregas finales de JAP.
 
 Estos trabajos fueron realizados en el contexto del curso, por lo que no se contemplaron todos los aspectos necesarios del testing de software a la hora de realizarlos, como lo son el diseño de caso de prueba especificos para cada campo individual al testear el funcionamiento de un formulario.
+
