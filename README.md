@@ -29,20 +29,12 @@ Analista en Cyberseguridad – IBM. (6 meses) (En curso)
 * Inteligencia de cyber amenazas. 
 * Estudios de ataques.  
 
-Software Testing and automation. University of Minesotta. (4 meses) (En curso)
-* Introducción al testing de software(repaso)
-* Testing de software black box y white box(repaso)
-* Introducción a analisis automatizado 
-* Testing web y mobile con Selenium.
-* 
 Google IT automation with Python.
-
-*Introducción a Python.
-*Python y el sistema operativo.
-*Git y Github
-*Tecnicas de solución de problemas y debugging.
-*Configuración de sistemas automatizados y en nube.
-*Automatización en Python.
+* Introducción a Python
+* Python y el sistema operativo.
+* Git y Github
+* Tecnicas de solución de problemas y debugging.
+* *Automatización en Python.
 
 ## Herramientas
 
