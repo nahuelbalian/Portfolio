@@ -34,12 +34,18 @@ Analista en Cyberseguridad – IBM. (6 meses) (En curso)
 * Inteligencia de cyber amenazas. 
 * Estudios de ataques.  
 
-Google IT automation with Python.
+Google IT automation with Python. (4 meses) (En curso)
 * Introducción a Python
 * Python y el sistema operativo.
 * Git y Github
 * Tecnicas de solución de problemas y debugging.
 * *Automatización en Python.
+
+Certificación Scrum Master con LearnQuest. (3 meses) (En curso)
+* Scrum Master Training.
+* Metodologias Scrum.
+* Agile en escala y equipos de equipos.
+* Combinar Scrum y otras metodologias.
 
 ## Herramientas
 
